@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="0" y="0" width="300" height="14" fill="#2f8f4e"/>
+  <rect x="300" y="0" width="300" height="14" fill="#2f7bc4"/>
+  <rect x="600" y="0" width="300" height="14" fill="#cf3a2f"/>
+  <rect x="900" y="0" width="300" height="14" fill="#101a24"/>
+  <text x="72" y="286" fill="#0d1a26" font-family="Archivo, Helvetica, sans-serif" font-size="92" font-weight="700" font-stretch="80%" letter-spacing="-3">Ski Samoëns</text>
+  <text x="72" y="348" fill="#46596b" font-family="Archivo, Helvetica, sans-serif" font-size="31">Le Grand Massif, pistes, remontées et forfaits</text>
+  <g>
+    <circle cx="92" cy="452" r="20" fill="#2f8f4e"/><text x="122" y="461" fill="#0d1a26" font-family="Archivo, Helvetica, sans-serif" font-size="30" font-weight="700">25</text>
+    <circle cx="212" cy="452" r="20" fill="#2f7bc4"/><text x="242" y="461" fill="#0d1a26" font-family="Archivo, Helvetica, sans-serif" font-size="30" font-weight="700">59</text>
+    <circle cx="332" cy="452" r="20" fill="#cf3a2f"/><text x="362" y="461" fill="#0d1a26" font-family="Archivo, Helvetica, sans-serif" font-size="30" font-weight="700">44</text>
+    <circle cx="452" cy="452" r="20" fill="#101a24"/><text x="482" y="461" fill="#0d1a26" font-family="Archivo, Helvetica, sans-serif" font-size="30" font-weight="700">11</text>
+  </g>
+  <text x="72" y="546" fill="#52657a" font-family="Archivo, Helvetica, sans-serif" font-size="25">139 pistes · 60 remontées · 5 stations reliées</text>
+</svg>
